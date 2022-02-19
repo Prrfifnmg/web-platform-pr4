@@ -1,5 +1,5 @@
 html, body {
-  background-color: rgb(225, 236, 225);
+  background-color: rgb(167, 226, 236);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   fonte-size: 20px;
 
@@ -7,20 +7,20 @@ html, body {
 
 h1 {
 color: rgb(19, 6, 66);
-background-color: aqua;
+background-color: rgb(99, 161, 161);
 
 }
 a {
-  color:black;
+  color:rgb(15, 15, 15);
 }
 nav#principal
  {
    
    text-align: center;
-   background-color: rgb(119, 221, 187);
+   background-color: rgb(124, 214, 236);
    border-width: 1px;
    border-style: solid;
-   border-color: black;
+   border-color: rgb(15, 15, 15);
    height: 25px;
    width: 300px;
    box-shadow: 2px 1px 2px 1px black;
