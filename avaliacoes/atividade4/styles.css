@@ -1,3 +1,29 @@
-body {
-  background: rgb(16, 223, 34);
+html, body {
+  background-color: rgb(225, 236, 225);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  fonte-size: 20px;
+
+}  
+
+h1 {
+color: rgb(19, 6, 66);
+background-color: aqua;
+
 }
+a {
+  color:black;
+}
+nav#principal
+ {
+   
+   text-align: center;
+   background-color: rgb(119, 221, 187);
+   border-width: 1px;
+   border-style: solid;
+   border-color: black;
+   height: 25px;
+   width: 300px;
+   box-shadow: 2px 1px 2px 1px black;
+   margin: auto;
+   
+} 
